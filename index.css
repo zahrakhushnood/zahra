@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.bg-body-tertiary{
+  background-color: black;
+}
+.navbar {
+  background-color: rgb(93, 87, 87);
+  color: rgb(226, 234, 241);
+}
+.navbar .nav-link, .navbar-brand {
+  color: rgb(226, 234, 241) !important; /* Ensures text color */
+}
+.navbar .nav-link:hover, .navbar-brand:hover{
+  color:rgb(119, 119, 112) !important;
+}

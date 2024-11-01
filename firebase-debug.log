@@ -1,0 +1,21 @@
+[debug] [2024-11-01T15:55:06.812Z] ----------------------------------------------------------------------
+[debug] [2024-11-01T15:55:06.818Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-11-01T15:55:06.819Z] CLI Version:   13.23.1
+[debug] [2024-11-01T15:55:06.819Z] Platform:      win32
+[debug] [2024-11-01T15:55:06.820Z] Node Version:  v20.18.0
+[debug] [2024-11-01T15:55:06.820Z] Time:          Fri Nov 01 2024 08:55:06 GMT-0700 (Pacific Daylight Time)
+[debug] [2024-11-01T15:55:06.820Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-11-01T15:55:06.831Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-11-01T15:55:06.832Z] > authorizing via signed-in user (zahoozahra40@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\DELL\Desktop\zahra1
+
